@@ -1,0 +1,7 @@
+requests
+pickle-mixin
+streamlit
+numpy
+streamlit-option-menu
+streamlit_lottie
+scikit-learn
